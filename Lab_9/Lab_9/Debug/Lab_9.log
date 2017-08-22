@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: неразрешенный внешний символ "_WinMainCRTStartup"
+C:\Users\xperi\OneDrive\Документы\Visual Studio 2015\Projects\Lab_9\Debug\Lab_9.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
